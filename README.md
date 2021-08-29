@@ -108,8 +108,7 @@
 ### 게시글 목록보기 및 페이징 ###
 ![게시글보기](https://user-images.githubusercontent.com/83936196/131249295-7bcf481a-eff1-4628-a0cb-546e040961ee.png)
 
-<img src="https://user-images.githubusercontent.com/83936196/131249297-738c81f9-fd4e-4be7-af00-9ce6c540ba4b.png" width="48%">
-<img src="https://user-images.githubusercontent.com/83936196/131249299-88a2f609-64b2-4078-a564-016d5a2ea071.png" width="48%">
+<img src="https://user-images.githubusercontent.com/83936196/131249297-738c81f9-fd4e-4be7-af00-9ce6c540ba4b.png" width="48%"> <img src="https://user-images.githubusercontent.com/83936196/131249299-88a2f609-64b2-4078-a564-016d5a2ea071.png" width="48%">
 
 **📷 게시글 목록보기 및 페이징** 
 - 한 페이지에 10개의 게시물 목록이 노출된다.
